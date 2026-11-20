@@ -1,15 +1,81 @@
-# 💫 About Me:
-🔭 I'm currently working on      create-java-fullstack — an open source npm CLI that scaffolds a React + Spring Boot project in seconds<br><br>🤝 I'm looking to collaborate on  Full-stack web apps, open source dev tools, and REST API projects<br><br>🤔 I'm looking for help with      Contributing to larger open source ecosystems (Spring, React)<br><br>🌱 I'm currently learning         Spring Boot advanced concepts, System Design, and Cloud Deployment (AWS)<br><br>💬 Ask me about                   Java, Python, Django, React, Spring Boot, REST APIs, or how to build an npm CLI from scratch<br><br>⚡ Fun fact                        I built a CLI tool because I got tired of setting up the same project structure manually — so I automated it!
- 
+# Hi, I'm Sai Sathwik! 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2400030206&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2400030206&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2400030206&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 💻 Java Backend & Full-Stack Developer
+
+⚙️ Building scalable applications using Java and Spring Boot  
+🚀 Developing REST APIs and Microservices architectures  
+🔐 Interested in Backend Engineering, System Design & Cloud  
+🌐 Exploring Full-Stack Development and modern technologies  
+🧠 Passionate about Data Structures, Algorithms and Problem Solving  
+🌱 Always learning, building, and improving my development skills  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2400030206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sathwik0739&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,html,css,bootstrap" />
+</p>
+
+### ☁️ Cloud & Server Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,hibernate" />
+</p>
+
+### 🚀 DevOps & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode,eclipse" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathwik0739&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwik0739&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sathwik0739">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="YOUR_CODECHEF_URL">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
+
+**"Code. Build. Learn. Repeat."** 🚀
